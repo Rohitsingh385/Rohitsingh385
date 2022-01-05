@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rohitsingh385
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning React js
+- 👀 I’m interested in backend and web dev
 - 📫 How to reach me rk301855@gmail.com
 
 <!---
